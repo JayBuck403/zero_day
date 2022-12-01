@@ -1,1 +1,1 @@
-This project is optional though
+I am already on Ubuntu
